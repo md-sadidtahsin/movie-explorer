@@ -1,7 +1,10 @@
-# Live Url [App Link] (https://movie-explorer-phi-eight.vercel.app/)
+
 # 🎬 MovieExplorer
 
 A simple React app to browse and search TV shows, built with **Vite**. It uses the free TVmaze API.
+
+## Live Application [Deployed on vercel]
+[App Link](https://movie-explorer-phi-eight.vercel.app/) [ https://movie-explorer-phi-eight.vercel.app/ ]
 
 ## What it does
 
@@ -51,8 +54,4 @@ To build for production:
 npm run build
 ```
 
-This creates a `dist/` folder you can deploy anywhere (Vercel, Netlify, GitHub Pages).
-
-
-
-
+This creates a `dist/` folder which you can deploy anywhere (Vercel, Netlify, GitHub Pages).
