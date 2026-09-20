@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <p>Movie Explorer</p>
-      <p>© {currentYear} MovieExplorer. All rights reserved.</p>
+      <p>© {currentYear} Movie Explorer. All rights reserved.</p>
       <div className="footer-links">
         <a href="https://github.com/md-sadidtahsin/movie-explorer" target="_blank" rel="noreferrer">
           GitHub
