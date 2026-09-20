@@ -1,6 +1,7 @@
+# Live Url [App Link] (https://movie-explorer-phi-eight.vercel.app/)
 # 🎬 MovieExplorer
 
-A simple React app to browse and search TV shows, built with **Vite**. It uses the free [TVmaze API](https://www.tvmaze.com/api) — no API key needed.
+A simple React app to browse and search TV shows, built with **Vite**. It uses the free TVmaze API.
 
 ## What it does
 

@@ -40,7 +40,7 @@ function MovieModal({ show, onClose }) {
           <p>{removeHtmlTags(show.summary)}</p>
 
           <button className="modal-close-btn-bottom" onClick={onClose}>
-            Close
+           ❌ Close
           </button>
         </div>
       </div>
